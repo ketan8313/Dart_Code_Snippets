@@ -1,6 +1,0 @@
-{"timestamp":87470,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"pocket-newtab-existing-markets-tier-2-rollout","experiment_type":"rollout","enrollment_id":"00d60300-ba6b-485a-a604-7a1dbb93c326","branch":"rollout"}}
-{"timestamp":87483,"category":"nimbus_events","name":"enrollment","extra":{"branch":"control","experiment_type":"rollout","enrollment_id":"a51ff696-d81c-4fa5-8edc-d6fdf120c763","experiment":"serp-ad-telemetry-rollout"}}
-{"timestamp":87515,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
-{"timestamp":87515,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy"}}
-{"timestamp":116216,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature"}}
-{"timestamp":116216,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","reason":"invalid-feature"}}
